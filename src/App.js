@@ -10,7 +10,7 @@ export default function App() {
       <h2>Biblioteca de JS para interfaces</h2>
       <h3>A lista de posts </h3>
       <h3>Git and Github</h3>
-      <h3>Github</h3>
+      <h3>Github não conflito</h3>
       <Lists />
     </div>
   );
