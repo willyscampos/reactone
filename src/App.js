@@ -9,6 +9,7 @@ export default function App() {
       <h1>React Start</h1>
       <h2>Biblioteca de JS para interfaces</h2>
       <h3>A lista de posts </h3>
+      <h3>Git and Github</h3>
       <Lists />
     </div>
   );
